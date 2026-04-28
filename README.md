@@ -6,11 +6,11 @@
 
 <br>
 
-<samp>*languages* ꒰ javascript · rust · go · ruby · c ꒱
+<samp>*languages* ꒰ javascript · rust · go · ruby · c ꒱</samp>
 
-*frameworks* ꒰ vue · react · next.js · flask ꒱
+<samp>*frameworks* ꒰ vue · react · next.js · flask ꒱</samp>
 
-*databases* ꒰ sqlite · mongodb ꒱</samp>
+<samp>*databases* ꒰ sqlite · mongodb ꒱</samp>
 
 <br>
 
